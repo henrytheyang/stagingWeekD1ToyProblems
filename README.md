@@ -1,3 +1,3 @@
 # stagingWeekD1ToyProblems
 
-Some toy problems from Week12Day1
+Some toy problems from Week 12 Day 1
